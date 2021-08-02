@@ -8,6 +8,7 @@ body {
 
 html {
     background: linear-gradient(to left top, blue, black) fixed;
+    width:980px;
     /* background-repeat: no-repeat;*/
 }
 
