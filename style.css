@@ -1,0 +1,188 @@
+body {
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    border: 0;
+}
+
+html {
+    background: linear-gradient(to left top, blue, black) fixed;
+    /* background-repeat: no-repeat;*/
+}
+
+#introSection {
+    background-color: darkblue;
+}
+
+#photoHolder {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 38%;
+    top: 200px;
+    border-radius: 50px;
+    background-image: url(yaver.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+#photoHolder:hover {
+    opacity: 80%;
+    filter: blur(10px);
+}
+
+#caption {
+    color: white;
+    font-size: 80px;
+    width: 400px;
+    position: relative;
+    top: 25%;
+    left: 30%;
+}
+
+#infoSection {
+    background-color: blanchedalmond;
+}
+
+.sections {
+    width: 90%;
+    height: 600px;
+    position: relative;
+    left: 5%;
+    top: 60px;
+    border-radius: 20px;
+}
+
+.miniIcons {
+    position: relative;
+    left: 100px;
+    height: 64px;
+}
+
+#emailIcon {
+    top: 50px;
+}
+
+#emailText {
+    top: -73px;
+    left: 19%;
+
+}
+
+.infoText {
+    font-size: 55px;
+    color: grey;
+    position: relative;
+    width: 70%;
+    height: 55px;
+    left: 170px;
+}
+
+#facebookIcon {
+    top: -100px;
+}
+
+#facebookText {
+    top: -208px;
+
+}
+
+#callIcon {
+    top: -250px;
+}
+
+#callText {
+    top: -360px;
+}
+
+#decoderIcon {
+    top: -400px;
+}
+
+#decoderText {
+    top: -515px;
+}
+
+#githubIcon {
+    top: -550px;
+}
+
+#githubText {
+    top: -670px;
+}
+
+#photoHolder1 {
+    width: 80%;
+    height: 1700px;
+    position: relative;
+    left: 5%;
+    background-color: #42445A;
+    top: 100px;
+    border-radius: 10px;
+    background-image: url(IMG2.png);
+    border: 50px solid white;
+    transform: rotate(2deg);
+
+}
+
+
+#quote1 {
+    font-size: 100px;
+    position: absolute;
+    width: 500px;
+    top: 1500px;
+    left: 110px;
+    transform: rotate(2deg);
+    font-family: fantasy;
+}
+
+#photoHolder2 {
+    width: 80%;
+    height: 1700px;
+    position: relative;
+    left: 5%;
+    background-color: #42445A;
+    top: 200px;
+    border-radius: 10px;
+    background-image: url(IMG3.png);
+    border: 50px solid white;
+    border-bottom: 100px solid white;
+    transform: rotate(-1deg);
+}
+
+#quote2 {
+    font-size: 50px;
+    position: relative;
+    font-family: cursive;
+    top: 70px;
+    left: 105px;
+    transform: rotate(-2deg);
+    width: 90%;
+}
+
+#hobbies {
+    position: relative;
+    top: 100px;
+    background-color: #D102FF;
+}
+
+.hobbiesList {
+    color: white;
+    font-size: 70px;
+    margin: 15px;
+}
+
+#footer {
+    height: 200px;
+    position: relative;
+    top:50px;
+    background-color: red;
+}
+
+#thanksText{
+    color: white;
+    font-family: cursive;
+    font-size:150px;
+}
