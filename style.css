@@ -8,7 +8,7 @@ body {
 
 html {
     background: linear-gradient(to left top, blue, black) fixed;
-    /* background-repeat: no-repeat;*/
+    width:980px;
 }
 
 #introSection {
