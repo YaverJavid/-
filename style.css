@@ -1,5 +1,5 @@
 body {
-    font-size: 10pt;
+    /*font-size: 10pt;*/
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -8,7 +8,7 @@ body {
 
 html {
     background: linear-gradient(to left top, blue, black) fixed;
-    width:980px;
+    
 }
 
 #introSection {
@@ -35,8 +35,8 @@ html {
 
 #caption {
     color: white;
-    font-size: 80px;
-    width: 400px;
+    font-size: 60px;
+    width: 600px;
     position: relative;
     top: 25%;
     left: 30%;
@@ -72,7 +72,7 @@ html {
 }
 
 .infoText {
-    font-size: 55px;
+    font-size: 50px;
     color: grey;
     position: relative;
     width: 70%;
@@ -170,7 +170,7 @@ html {
 
 .hobbiesList {
     color: white;
-    font-size: 70px;
+    font-size: 50px;
     margin: 15px;
 }
 
@@ -184,5 +184,5 @@ html {
 #thanksText{
     color: white;
     font-family: cursive;
-    font-size:150px;
+    font-size:120px;
 }
