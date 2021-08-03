@@ -1,5 +1,5 @@
 body {
-    /*font-size: 10pt;*/
+
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -8,7 +8,7 @@ body {
 
 html {
     background: linear-gradient(to left top, blue, black) fixed;
-    
+    width:980px;
 }
 
 #introSection {
